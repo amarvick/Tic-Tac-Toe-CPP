@@ -3,7 +3,7 @@
 using namespace std;
 
 int main()
-{cout << "LET'S PLAY TIC TAC TOE! YAY!" << endl;
+{cout << "LET'S PLAY TIC TAC TOE!" << endl;
     
     int x, o;
     const int ROWS = 3, COLUMNS = 3;
